@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **efe20041@gmail.com**
 
-- 📄 Know about my experiences [#](#)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
