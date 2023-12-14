@@ -1,14 +1,14 @@
 Hi 👋 My name is Efe ŞENGÜL
 ===========================
 
-Student fullstack web developer
+Student fullstack web developer in Uşak University
 -------------------------------
 
-I have been learning and writing code for 6 years. I am currently a fullstack developer.
+I have been learning and writing code for 6 years. I am currently going after becoming a fullstack developer.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [efe20041@gmail.com](mailto:efe20041@gmail.com)
-* 🧠  I'm learning Laravel and vue.js
+* 🧠  I'm currently learning Laravel and Vue.js
 
 ### Skills
 
