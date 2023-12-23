@@ -7,6 +7,7 @@ Student fullstack web developer in Uşak University
 I have been learning and writing code for 6 years. I am currently going after becoming a fullstack developer.
 
 * 🌍  I'm based in Turkey
+* 🔭 I’m currently working on [a project named ayyvi for my school project](https://github.com/Efesngl/ayyvi)
 * ✉️  You can contact me at [efe20041@gmail.com](mailto:efe20041@gmail.com)
 * 🧠  I'm currently learning Laravel and Vue.js
 
