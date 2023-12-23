@@ -1,4 +1,4 @@
-Hi 👋 My name is Efe ŞENGÜL
+Hi 👋 I'm Efe
 ===========================
 
 Student fullstack web developer in Uşak University
