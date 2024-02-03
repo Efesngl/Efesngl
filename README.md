@@ -9,7 +9,6 @@ I have been learning and writing code for 6 years. I am currently trying to beco
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [efe20041@gmail.com](mailto:efe20041@gmail.com)
 * 🧠  I'm learning golang
-* ⚡  I'm batman
 
 ### Skills
 
