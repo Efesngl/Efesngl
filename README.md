@@ -1,4 +1,4 @@
-Hi 👋 My name is Efe ŞENGÜL
+Hi 👋 There i'm efe
 ===========================
 
 Student junior developer
